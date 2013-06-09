@@ -28,9 +28,9 @@
     </build>
 
     <scm>
-        <url></url>
-        <connection>scm:git:file://C:\Code\teamcity\sample</connection>
-        <developerConnection>scm:git:file://C:\Code\teamcity\sample</developerConnection>
+        <url>https://github.com/aggenebbisj/teamcity</url>
+        <connection>scm:git:git@github.com:aggenebbisj/teamcity.git</connection>
+        <developerConnection>scm:git:git@github.com:aggenebbisj/teamcity.git</developerConnection>
     </scm>
 
 </project>
