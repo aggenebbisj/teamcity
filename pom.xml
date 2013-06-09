@@ -29,8 +29,8 @@
 
     <scm>
         <url>https://github.com/aggenebbisj/teamcity</url>
-        <connection>scm:git:git@github.com:aggenebbisj/teamcity.git</connection>
-        <developerConnection>scm:git:git@github.com:aggenebbisj/teamcity.git</developerConnection>
+        <connection>scm:git:git://github.com:aggenebbisj/teamcity.git</connection>
+        <developerConnection>scm:git:git//github.com:aggenebbisj/teamcity.git</developerConnection>
     </scm>
 
 </project>
