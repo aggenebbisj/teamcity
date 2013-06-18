@@ -9,7 +9,10 @@ public class CalculatorTest extends TestCase {
         Calculator calculator = new Calculator();
         int sum = calculator.sum(1, 2);
         Assert.assertEquals(3, sum);
-        Assert.assertEquals(4, sum + 1);
+    }
+
+    public void testBad() {
+        fail("Oops!");
     }
 }
 
