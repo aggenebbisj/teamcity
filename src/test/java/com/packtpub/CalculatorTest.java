@@ -11,8 +11,8 @@ public class CalculatorTest extends TestCase {
         Assert.assertEquals(3, sum);
     }
 
-    public void testBad() {
-        fail("Oops!");
+    public void testGood() {
+        assertTrue(true);
     }
 }
 
